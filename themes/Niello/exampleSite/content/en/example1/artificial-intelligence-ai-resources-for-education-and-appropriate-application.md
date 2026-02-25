@@ -6,6 +6,9 @@ categories = ["Education", "Artificial Intelligence", "", "", "", "", "", "", ""
 tags = ["AI in education", "Useful AI for students", "AI tools for teachers", "AI and SDG4", "Proper use of AI in education", "Advantages of AI in studies", "AI tools for students", "advantages and disadvantages of AI in education", "", "", "", "", "", ""]
 draft = false
 +++
+
+<img src="https://www.chitkara.edu.in/blogs/wp-content/uploads/2023/07/AI-and-Remote-Learning.jpg" alt="AI Teaching" />
+
 Leaders throughout history have placed a high priority on education. Furthermore, as artificial intelligence (AI) continues to progress, it has been observed that students and teachers are turning to AI for assistance, which raises both positive and negative reactions. According to a[ Forbes Advisor survey](https://www.forbes.com/advisor/education/it-and-tech/artificial-intelligence-in-school/), over 60% of teachers employ AI-powered resources in the classroom, demonstrating that the use of AI has begun to spread widely. It is crucial to remember that whenever a revolutionary shift occurs, both of these reactions are triggered, but there is nothing we can do about it other than keep moving forward with the developments. If we are to keep up with current advancements in the field of education, we must understand AI in education, including its benefits and drawbacks. For this reason, it is imperative that we understand how to use AI to improve education. 
 
  
